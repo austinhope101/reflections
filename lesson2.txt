@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+When initialized, a new git repo is created but nothing is added to it. You need this to start tracking changes made to your files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is the intermediate place between working dir and repo. It is useful in deciding which files are worth being tracked together and correcting initial thoughts as to what files belong together.
